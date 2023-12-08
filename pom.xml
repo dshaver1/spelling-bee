@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.dshaver.bee</groupId>
+    <artifactId>spelling-bee-tool</artifactId>
+    <version>1</version>
+
+    <properties>
+        <maven.compiler.release>21</maven.compiler.release>
+    </properties>
+</project>
